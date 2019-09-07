@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/utsavbhattacharjee/AZ400Practice/_apis/build/status/utsav1981.pipelines-java?branchName=master)](https://dev.azure.com/utsavbhattacharjee/AZ400Practice/_build/latest?definitionId=8&branchName=master)
 
 # Contributing
 
